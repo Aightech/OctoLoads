@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"JP1";"SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm";1;"SolderJumper_2_Bridged";;;
+2;"C35,C30,C26,C22,C18,C14,C10,C6,C2";"C_0402_1005Metric";9;"10uF";;;
+3;"C34,C33,C32,C31,C29,C28,C27,C25,C24,C23,C21,C20,C19,C17,C16,C15,C13,C12,C11,C9,C8,C7,C5,C4,C1,C3";"C_0402_1005Metric";26;"0.1uF";;;
+4;"J12,J10";"PinHeader_1x03_P2.54mm_Vertical";2;"Conn_01x03_Male";;;
+5;"U8,U7,U6,U5,U4,U3,U2,U1";"SOP-16_3.9x9.9mm_P1.27mm";8;"HX711";;;
+6;"R32,R31,R28,R27,R24,R23,R20,R19,R16,R15,R12,R11,R8,R7,R3,R4";"R_01005_0402Metric";16;"100";;;
+7;"R30,R26,R22,R18,R14,R10,R6,R2";"R_01005_0402Metric";8;"8.2k";;;
+8;"R29,R25,R21,R17,R13,R9,R5,R1";"R_01005_0402Metric";8;"20k";;;
+9;"Q8,Q7,Q6,Q5,Q4,Q3,Q2,Q1";"SOT-23-3";8;"MMBT4403LT1G";;;
+10;"L8,L7,L6,L5,L4,L3,L2,L1";"L_0603_1608Metric";8;"L";;;
+11;"J8,J7,J6,J5,J4,J3,J2,J1";"PinHeader_1x04_P2.54mm_Vertical";8;"Conn_01x04_Male";;;
+12;"J9";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08_Male";;;
+13;"J11";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Male";;;
