@@ -1,6 +1,12 @@
 # OctoLoads: 8-Channel Load Cell Measurement PCB
 
 OctoLoads is an 8-channel load cell measurement Printed Circuit Board (PCB) designed for projects that require simultaneous readings from multiple load cells. With 8 HX711 modules on a single board, it offers a practical and efficient solution for managing and synchronizing measurements across several load cells.
+
+## Visualisation
+Top             |  Bottom 
+:-------------------------:|:-------------------------:
+![Top](docs/octoHX711_top.png) |  ![Bop](docs/octoHX711_bot.png)
+
 ## Features
 
     8 HX711 modules for measuring up to 8 load cells simultaneously
