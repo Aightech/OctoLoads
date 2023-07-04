@@ -1,100 +1,95 @@
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Plugin executed on: 'linux'
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 361:Plugin executed with python version: '3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]'
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 362:KiCad build version: 7.0.2-6a45011f42~172~ubuntu22.04.1
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 363:Plugin version: 2.0.10
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:Frame repr: <wx._core.Frame object at 0x7f467912fc70>
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 388:Preparing replicator with U1 as a reference
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.replicate_layout 113:getting a list of all footprints on board
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 436:source anchor footprint is 'U1'
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Plugin executed on: 'linux'
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 361:Plugin executed with python version: '3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]'
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 362:KiCad build version: 7.0.2-6a45011f42~172~ubuntu22.04.1
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 363:Plugin version: 2.0.10
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 364:Frame repr: <wx._core.Frame object at 0x7f5fa8139360>
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 388:Preparing replicator with U1 as a reference
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 113:getting a list of all footprints on board
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 132:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 436:source anchor footprint is 'U1'
 Located on: ['HX711_unit1']
 With filenames: ['HX711_unit.kicad_sch']
 With sheet_id:['HX711_unit1']
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 443:Corresponding footprints are 
-[('U8', ['HX711_unit7']), ('U7', ['HX711_unit8']), ('U6', ['HX711_unit5']), ('U5', ['HX711_unit6']), ('U4', ['HX711_unit4']), ('U3', ['HX711_unit3']), ('U2', ['HX711_unit2']), ('U1', ['HX711_unit1'])]
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 455:Showing dialog
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1348:Level selected: ['HX711_unit1']
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1183:Filtering list of tracks
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 461:Toolbar position: wx.Point(1701, 165)
-05-07 15:50:24 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 466:Dialog position: wx.Point(1337, 165)
-05-07 15:50:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
-05-07 15:50:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
-05-07 15:50:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:Replicating layout
-05-07 15:50:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 236:Starting replication of sheets: [['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 443:Corresponding footprints are 
+[('U5', ['HX711_unit5']), ('U7', ['HX711_unit6']), ('U3', ['HX711_unit3']), ('U4', ['HX711_unit4']), ('U2', ['HX711_unit2']), ('U8', ['HX711_unit7']), ('U6', ['HX711_unit8']), ('U1', ['HX711_unit1'])]
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 455:Showing dialog
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1348:Level selected: ['HX711_unit1']
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1183:Filtering list of tracks
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 461:Toolbar position: wx.Point(1886, 123)
+05-19 09:06:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 466:Dialog position: wx.Point(1522, 123)
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1348:Level selected: ['HX711_unit1']
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1183:Filtering list of tracks
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1348:Level selected: ['HX711_unit1']
+05-19 09:06:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
+05-19 09:06:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1348:Level selected: ['HX711_unit1']
+05-19 09:06:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'HX711_unit1', file:'HX711_unit.kicad_sch'
+05-19 09:06:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
+05-19 09:06:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:Replicating layout
+05-19 09:06:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 236:Starting replication of sheets: [['HX711_unit2'], ['HX711_unit3'], ['HX711_unit4'], ['HX711_unit5'], ['HX711_unit6'], ['HX711_unit7'], ['HX711_unit8']]
 on level: ['HX711_unit1']
-with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
-05-07 15:50:25 root 299:updating GUI message: 'Preparing for replication'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 306:Getting the list of source footprints
-05-07 15:50:26 root 304:updating GUI with: 0
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 316:Getting the list of all the remaining footprints
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 323:Getting source tracks
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1183:Filtering list of tracks
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source zones
-05-07 15:50:26 root 304:updating GUI with: 50
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source text items
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source drawing items
-05-07 15:50:26 root 299:updating GUI message: 'Replicating footprints'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 739:Replicating footprints
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit2']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit3']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit4']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit5']
-05-07 15:50:26 root 304:updating GUI with: 50
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit6']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit7']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit8']
-05-07 15:50:26 root 299:updating GUI message: 'Replicating tracks'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 904:Replicating tracks
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit2']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit2'] :[('unconnected-(U1-INB+-Pad10)', 'unconnected-(U2-INB+-Pad10)'), ('/HX711_unit1/vfb', '/HX711_unit2/vfb'), ('/HX711_unit1/a+', '/HX711_unit2/a+'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U2-XO-Pad13)'), ('/HX711_unit1/a+in', '/HX711_unit2/a+in'), ('/HX711_unit1/vbg', '/HX711_unit2/vbg'), ('/HX711_unit1/base', '/HX711_unit2/base'), ('/HX711_unit1/a-in', '/HX711_unit2/a-in'), ('/HX711_unit1/e+', '/HX711_unit2/e+'), ('/HX711_unit1/avdd', '/HX711_unit2/avdd'), ('/HX711_unit1/a-', '/HX711_unit2/a-'), ('Sclk', 'Sclk'), ('rate', 'rate'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U2-INB--Pad9)'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/Dout', '/HX711_unit2/Dout'), ('GND', 'GND')]
-05-07 15:50:26 root 304:updating GUI with: 0
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit3']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit3'] :[('/HX711_unit1/avdd', '/HX711_unit3/avdd'), ('/HX711_unit1/vfb', '/HX711_unit3/vfb'), ('/HX711_unit1/e+', '/HX711_unit3/e+'), ('/HX711_unit1/a+', '/HX711_unit3/a+'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U3-XO-Pad13)'), ('/HX711_unit1/a-', '/HX711_unit3/a-'), ('/HX711_unit1/a+in', '/HX711_unit3/a+in'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U3-INB--Pad9)'), ('Sclk', 'Sclk'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U3-INB+-Pad10)'), ('rate', 'rate'), ('/HX711_unit1/base', '/HX711_unit3/base'), ('VDD', 'VDD'), ('/HX711_unit1/Dout', '/HX711_unit3/Dout'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/vbg', '/HX711_unit3/vbg'), ('GND', 'GND'), ('/HX711_unit1/a-in', '/HX711_unit3/a-in')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit4']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit4'] :[('/HX711_unit1/vbg', '/HX711_unit4/vbg'), ('/HX711_unit1/e+', '/HX711_unit4/e+'), ('/HX711_unit1/Dout', '/HX711_unit4/Dout'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U4-INB+-Pad10)'), ('/HX711_unit1/vfb', '/HX711_unit4/vfb'), ('/HX711_unit1/base', '/HX711_unit4/base'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U4-XO-Pad13)'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U4-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit4/avdd'), ('Sclk', 'Sclk'), ('rate', 'rate'), ('/HX711_unit1/a-in', '/HX711_unit4/a-in'), ('VDD', 'VDD'), ('/HX711_unit1/a+in', '/HX711_unit4/a+in'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/a-', '/HX711_unit4/a-'), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit4/a+')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit5']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit5'] :[('unconnected-(U1-INB--Pad9)', 'unconnected-(U6-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit5/avdd'), ('/HX711_unit1/a+in', '/HX711_unit5/a+in'), ('/HX711_unit1/a+', '/HX711_unit5/a+'), ('/HX711_unit1/vfb', '/HX711_unit5/vfb'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U6-XO-Pad13)'), ('/HX711_unit1/Dout', '/HX711_unit5/Dout'), ('Sclk', 'Sclk'), ('/HX711_unit1/base', '/HX711_unit5/base'), ('/HX711_unit1/a-', '/HX711_unit5/a-'), ('/HX711_unit1/e+', '/HX711_unit5/e+'), ('rate', 'rate'), ('/HX711_unit1/a-in', '/HX711_unit5/a-in'), ('/HX711_unit1/vbg', '/HX711_unit5/vbg'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U6-INB+-Pad10)'), ('GND', 'GND')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit6']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit6'] :[('/HX711_unit1/e+', '/HX711_unit6/e+'), ('/HX711_unit1/base', '/HX711_unit6/base'), ('/HX711_unit1/vfb', '/HX711_unit6/vfb'), ('/HX711_unit1/a+in', '/HX711_unit6/a+in'), ('Sclk', 'Sclk'), ('/HX711_unit1/Dout', '/HX711_unit6/Dout'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U5-XO-Pad13)'), ('/HX711_unit1/vbg', '/HX711_unit6/vbg'), ('rate', 'rate'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U5-INB+-Pad10)'), ('/HX711_unit1/a-in', '/HX711_unit6/a-in'), ('/HX711_unit1/a-', '/HX711_unit6/a-'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U5-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit6/avdd'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit6/a+')]
-05-07 15:50:26 root 304:updating GUI with: 58
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit7']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit7'] :[('/HX711_unit1/Dout', '/HX711_unit7/Dout'), ('/HX711_unit1/vbg', '/HX711_unit7/vbg'), ('/HX711_unit1/a-', '/HX711_unit7/a-'), ('/HX711_unit1/base', '/HX711_unit7/base'), ('Sclk', 'Sclk'), ('/HX711_unit1/vfb', '/HX711_unit7/vfb'), ('rate', 'rate'), ('/HX711_unit1/avdd', '/HX711_unit7/avdd'), ('/HX711_unit1/a+', '/HX711_unit7/a+'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U8-INB+-Pad10)'), ('/HX711_unit1/e+', '/HX711_unit7/e+'), ('/HX711_unit1/a+in', '/HX711_unit7/a+in'), ('VDD', 'VDD'), ('/HX711_unit1/a-in', '/HX711_unit7/a-in'), ('VCC', 'VCC'), ('', ''), ('GND', 'GND'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U8-XO-Pad13)'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U8-INB--Pad9)')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 910:Replicating tracks on sheet ['HX711_unit8']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit8'] :[('unconnected-(U1-INB--Pad9)', 'unconnected-(U7-INB--Pad9)'), ('/HX711_unit1/a-', '/HX711_unit8/a-'), ('/HX711_unit1/vbg', '/HX711_unit8/vbg'), ('/HX711_unit1/a+in', '/HX711_unit8/a+in'), ('/HX711_unit1/a-in', '/HX711_unit8/a-in'), ('/HX711_unit1/Dout', '/HX711_unit8/Dout'), ('Sclk', 'Sclk'), ('/HX711_unit1/avdd', '/HX711_unit8/avdd'), ('/HX711_unit1/e+', '/HX711_unit8/e+'), ('rate', 'rate'), ('VDD', 'VDD'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U7-XO-Pad13)'), ('VCC', 'VCC'), ('/HX711_unit1/vfb', '/HX711_unit8/vfb'), ('', ''), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit8/a+'), ('/HX711_unit1/base', '/HX711_unit8/base'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U7-INB+-Pad10)')]
-05-07 15:50:26 root 299:updating GUI message: 'Replicating zones'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 963:Replicating zones
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit2']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit2'] :[('unconnected-(U1-INB+-Pad10)', 'unconnected-(U2-INB+-Pad10)'), ('/HX711_unit1/vfb', '/HX711_unit2/vfb'), ('/HX711_unit1/a+', '/HX711_unit2/a+'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U2-XO-Pad13)'), ('/HX711_unit1/a+in', '/HX711_unit2/a+in'), ('/HX711_unit1/vbg', '/HX711_unit2/vbg'), ('/HX711_unit1/base', '/HX711_unit2/base'), ('/HX711_unit1/a-in', '/HX711_unit2/a-in'), ('/HX711_unit1/e+', '/HX711_unit2/e+'), ('/HX711_unit1/avdd', '/HX711_unit2/avdd'), ('/HX711_unit1/a-', '/HX711_unit2/a-'), ('Sclk', 'Sclk'), ('rate', 'rate'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U2-INB--Pad9)'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/Dout', '/HX711_unit2/Dout'), ('GND', 'GND')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit3']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit3'] :[('/HX711_unit1/avdd', '/HX711_unit3/avdd'), ('/HX711_unit1/vfb', '/HX711_unit3/vfb'), ('/HX711_unit1/e+', '/HX711_unit3/e+'), ('/HX711_unit1/a+', '/HX711_unit3/a+'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U3-XO-Pad13)'), ('/HX711_unit1/a-', '/HX711_unit3/a-'), ('/HX711_unit1/a+in', '/HX711_unit3/a+in'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U3-INB--Pad9)'), ('Sclk', 'Sclk'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U3-INB+-Pad10)'), ('rate', 'rate'), ('/HX711_unit1/base', '/HX711_unit3/base'), ('VDD', 'VDD'), ('/HX711_unit1/Dout', '/HX711_unit3/Dout'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/vbg', '/HX711_unit3/vbg'), ('GND', 'GND'), ('/HX711_unit1/a-in', '/HX711_unit3/a-in')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit4']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit4'] :[('/HX711_unit1/vbg', '/HX711_unit4/vbg'), ('/HX711_unit1/e+', '/HX711_unit4/e+'), ('/HX711_unit1/Dout', '/HX711_unit4/Dout'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U4-INB+-Pad10)'), ('/HX711_unit1/vfb', '/HX711_unit4/vfb'), ('/HX711_unit1/base', '/HX711_unit4/base'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U4-XO-Pad13)'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U4-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit4/avdd'), ('Sclk', 'Sclk'), ('rate', 'rate'), ('/HX711_unit1/a-in', '/HX711_unit4/a-in'), ('VDD', 'VDD'), ('/HX711_unit1/a+in', '/HX711_unit4/a+in'), ('VCC', 'VCC'), ('', ''), ('/HX711_unit1/a-', '/HX711_unit4/a-'), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit4/a+')]
-05-07 15:50:26 root 304:updating GUI with: 42
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit5']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit5'] :[('unconnected-(U1-INB--Pad9)', 'unconnected-(U6-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit5/avdd'), ('/HX711_unit1/a+in', '/HX711_unit5/a+in'), ('/HX711_unit1/a+', '/HX711_unit5/a+'), ('/HX711_unit1/vfb', '/HX711_unit5/vfb'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U6-XO-Pad13)'), ('/HX711_unit1/Dout', '/HX711_unit5/Dout'), ('Sclk', 'Sclk'), ('/HX711_unit1/base', '/HX711_unit5/base'), ('/HX711_unit1/a-', '/HX711_unit5/a-'), ('/HX711_unit1/e+', '/HX711_unit5/e+'), ('rate', 'rate'), ('/HX711_unit1/a-in', '/HX711_unit5/a-in'), ('/HX711_unit1/vbg', '/HX711_unit5/vbg'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U6-INB+-Pad10)'), ('GND', 'GND')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit6']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit6'] :[('/HX711_unit1/e+', '/HX711_unit6/e+'), ('/HX711_unit1/base', '/HX711_unit6/base'), ('/HX711_unit1/vfb', '/HX711_unit6/vfb'), ('/HX711_unit1/a+in', '/HX711_unit6/a+in'), ('Sclk', 'Sclk'), ('/HX711_unit1/Dout', '/HX711_unit6/Dout'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U5-XO-Pad13)'), ('/HX711_unit1/vbg', '/HX711_unit6/vbg'), ('rate', 'rate'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U5-INB+-Pad10)'), ('/HX711_unit1/a-in', '/HX711_unit6/a-in'), ('/HX711_unit1/a-', '/HX711_unit6/a-'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U5-INB--Pad9)'), ('/HX711_unit1/avdd', '/HX711_unit6/avdd'), ('VDD', 'VDD'), ('VCC', 'VCC'), ('', ''), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit6/a+')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit7']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit7'] :[('/HX711_unit1/Dout', '/HX711_unit7/Dout'), ('/HX711_unit1/vbg', '/HX711_unit7/vbg'), ('/HX711_unit1/a-', '/HX711_unit7/a-'), ('/HX711_unit1/base', '/HX711_unit7/base'), ('Sclk', 'Sclk'), ('/HX711_unit1/vfb', '/HX711_unit7/vfb'), ('rate', 'rate'), ('/HX711_unit1/avdd', '/HX711_unit7/avdd'), ('/HX711_unit1/a+', '/HX711_unit7/a+'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U8-INB+-Pad10)'), ('/HX711_unit1/e+', '/HX711_unit7/e+'), ('/HX711_unit1/a+in', '/HX711_unit7/a+in'), ('VDD', 'VDD'), ('/HX711_unit1/a-in', '/HX711_unit7/a-in'), ('VCC', 'VCC'), ('', ''), ('GND', 'GND'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U8-XO-Pad13)'), ('unconnected-(U1-INB--Pad9)', 'unconnected-(U8-INB--Pad9)')]
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating zones on sheet ['HX711_unit8']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 734:Net pairs for sheet ['HX711_unit8'] :[('unconnected-(U1-INB--Pad9)', 'unconnected-(U7-INB--Pad9)'), ('/HX711_unit1/a-', '/HX711_unit8/a-'), ('/HX711_unit1/vbg', '/HX711_unit8/vbg'), ('/HX711_unit1/a+in', '/HX711_unit8/a+in'), ('/HX711_unit1/a-in', '/HX711_unit8/a-in'), ('/HX711_unit1/Dout', '/HX711_unit8/Dout'), ('Sclk', 'Sclk'), ('/HX711_unit1/avdd', '/HX711_unit8/avdd'), ('/HX711_unit1/e+', '/HX711_unit8/e+'), ('rate', 'rate'), ('VDD', 'VDD'), ('unconnected-(U1-XO-Pad13)', 'unconnected-(U7-XO-Pad13)'), ('VCC', 'VCC'), ('/HX711_unit1/vfb', '/HX711_unit8/vfb'), ('', ''), ('GND', 'GND'), ('/HX711_unit1/a+', '/HX711_unit8/a+'), ('/HX711_unit1/base', '/HX711_unit8/base'), ('unconnected-(U1-INB+-Pad10)', 'unconnected-(U7-INB+-Pad10)')]
-05-07 15:50:26 root 299:updating GUI message: 'Replicating text'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1041:Replicating text
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit2']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit3']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit4']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit5']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit6']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit7']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit8']
-05-07 15:50:26 root 299:updating GUI message: 'Replicating drawings'
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1081:Replicating drawings
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit2']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit3']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit4']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit5']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit6']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit7']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1087:Replicating drawings on sheet ['HX711_unit8']
-05-07 15:50:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:Replication complete
+with tracks=False, zone=False, text=True, text=False, intersecting=False, remove=True, locked footprints=False, group_only=False
+05-19 09:06:56 root 299:updating GUI message: 'Preparing for replication'
+05-19 09:06:57 root 304:updating GUI with: 0
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 306:Getting the list of source footprints
+05-19 09:06:57 root 304:updating GUI with: 0
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 316:Getting the list of all the remaining footprints
+05-19 09:06:57 root 304:updating GUI with: 16
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 323:Getting source tracks
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1183:Filtering list of tracks
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source zones
+05-19 09:06:57 root 304:updating GUI with: 50
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source text items
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source drawing items
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 268:Removing tracks and zones, before footprint placement
+05-19 09:06:57 root 299:updating GUI message: 'Removing zones and tracks'
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:83890000, bottom:95540000, Left:125070000, Right:140670000
+05-19 09:06:57 root 304:updating GUI with: 14
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:95890000, bottom:107540000, Left:125070000, Right:140670000
+05-19 09:06:57 root 304:updating GUI with: 28
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:107890000, bottom:119540000, Left:125070000, Right:140670000
+05-19 09:06:57 root 304:updating GUI with: 42
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:108465000, bottom:120115000, Left:141160000, Right:156760000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:84465000, bottom:96115000, Left:141160000, Right:156760000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:72465000, bottom:84115000, Left:141160000, Right:156760000
+05-19 09:06:57 root 304:updating GUI with: 85
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:96465000, bottom:108115000, Left:141160000, Right:156760000
+05-19 09:06:57 root 299:updating GUI message: 'Replicating footprints'
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 739:Replicating footprints
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit2']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit3']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit4']
+05-19 09:06:57 root 304:updating GUI with: 36
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit5']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit6']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit7']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 745:Replicating footprints on sheet ['HX711_unit8']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 276:Removing tracks and zones, after footprint placement
+05-19 09:06:57 root 299:updating GUI message: 'Removing zones and tracks'
+05-19 09:06:57 root 304:updating GUI with: 0
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:83890000, bottom:95540000, Left:125070000, Right:140670000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:95890000, bottom:107540000, Left:125070000, Right:140670000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:107890000, bottom:119540000, Left:125070000, Right:140670000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:108465000, bottom:120115000, Left:141160000, Right:156760000
+05-19 09:06:57 root 304:updating GUI with: 57
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:84465000, bottom:96115000, Left:141160000, Right:156760000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:72465000, bottom:84115000, Left:141160000, Right:156760000
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1129:Remove bounding box top:96465000, bottom:108115000, Left:141160000, Right:156760000
+05-19 09:06:57 root 299:updating GUI message: 'Replicating text'
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1041:Replicating text
+05-19 09:06:57 root 304:updating GUI with: 0
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit2']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit3']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit4']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit5']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit6']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit7']
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1048:Replicating text on sheet ['HX711_unit8']
+05-19 09:06:57 root 299:updating GUI message: 'Removing duplicates'
+05-19 09:06:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:Replication complete
