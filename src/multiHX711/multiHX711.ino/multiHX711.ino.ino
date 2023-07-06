@@ -15,6 +15,10 @@ int32_t val[NB_LOADCELL];
 void setup() {
   Serial.begin(38400);
   pinMode(sclk, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
   for (int i = 0; i < NB_LOADCELL; i++)
     pinMode(hx711_data_pin[i], INPUT_PULLUP);
 
